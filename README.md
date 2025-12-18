@@ -29,6 +29,7 @@ In Starbreaker: Endless Void, you pilot a lone spaceship through an infinite ast
 October to December 2025
 
 ![startscreen](https://github.com/garrettdacarrot666/Garrett-Nelson-Game-Dev-portfolio-2026/blob/main/images/Startscreen.png)
+![gameplay](https://github.com/garrettdacarrot666/Garrett-Nelson-Game-Dev-portfolio-2026/blob/main/images/gameplay.png)
 ![background](https://github.com/garrettdacarrot666/2dSideScroller-game/blob/main/images/forrest.png)
 ![walking](https://github.com/garrettdacarrot666/2dSideScroller-game/blob/main/images/walkingWizardRight.gif)
 
