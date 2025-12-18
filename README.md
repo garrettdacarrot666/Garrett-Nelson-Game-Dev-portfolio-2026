@@ -1,6 +1,6 @@
 # Garrett Nelsons's game dev portfolio 2026. 
 
-## dungeonsboi08@gmail.com
+## email: dungeonsboi08@gmail.com
 
 ## Term 1 Projects
 
@@ -18,6 +18,6 @@ In Starbreaker: Endless Void, you pilot a lone spaceship through an infinite ast
 * [Linux Executable]()
 * [Source Code](https://github.com/garrettdacarrot666/portfolio/tree/main/src/SpaceGame/SpaceGame)
 
-##Term 2 Projects
+## Term 2 Projects
 
-###Echoes of the four
+### Echoes of the four
