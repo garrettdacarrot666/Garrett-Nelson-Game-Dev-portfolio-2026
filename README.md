@@ -3,7 +3,7 @@
 ## email: dungeonsboi08@gmail.com
 
 ## Gaming Development Fundementals 1 certification 
-![Certification](https://github.com/garrettdacarrot666/Garrett-Nelson-Game-Dev-portfolio-2026/blob/main/images/Garrett%20Nelson_Game%20Development%20Fundamentals%201_12162025.pdf)
+![Certification](https://github.com/garrettdacarrot666/Garrett-Nelson-Game-Dev-portfolio-2026/blob/main/images/Garrett%20NelsonGame%20Development%20Fundamentals%20112162025.pdf)
 
 ## Term 1 Projects
 
