@@ -3,7 +3,7 @@
 ## email: dungeonsboi08@gmail.com
 
 ## Certifications 
-![Certifications folder](https://github.com/garrettdacarrot666/Garrett-Nelson-Game-Dev-portfolio-2026/tree/main/Certifications)
+* [Certifications folder](https://github.com/garrettdacarrot666/Garrett-Nelson-Game-Dev-portfolio-2026/tree/main/Certifications)
 
 ## Term 1 Projects
 
