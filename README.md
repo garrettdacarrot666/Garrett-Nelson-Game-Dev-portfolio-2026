@@ -3,7 +3,7 @@
 ## email: dungeonsboi08@gmail.com
 
 ## Gaming Development Fundementals 1 certification 
-![Certification](https://github.com/garrettdacarrot666/Garrett-Nelson-Game-Dev-portfolio-2026/blob/main/images/Garrett%20NelsonGame%20Development%20Fundamentals%20112162025.pdf)
+![Certification]()
 
 ## Term 1 Projects
 
@@ -24,3 +24,5 @@ In Starbreaker: Endless Void, you pilot a lone spaceship through an infinite ast
 ## Term 2 Projects
 
 ### Echoes of the four
+
+
