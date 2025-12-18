@@ -25,5 +25,13 @@ In Starbreaker: Endless Void, you pilot a lone spaceship through an infinite ast
 
 ### Echoes of the four
 
+### Co-created with Aidan stephens
+October to December 2025
+
+![startscreen](https://github.com/garrettdacarrot666/Garrett-Nelson-Game-Dev-portfolio-2026/blob/main/images/Startscreen.png)
+![background](https://github.com/garrettdacarrot666/2dSideScroller-game/blob/main/images/forrest.png)
+![walking](https://github.com/garrettdacarrot666/2dSideScroller-game/blob/main/images/walkingWizardRight.gif)
+
+*[source code](https://github.com/garrettdacarrot666/2dSideScroller-game/tree/main/src)
 
 
