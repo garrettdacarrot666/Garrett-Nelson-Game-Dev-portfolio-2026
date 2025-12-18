@@ -27,6 +27,7 @@ In Starbreaker: Endless Void, you pilot a lone spaceship through an infinite ast
 
 ### Co-created with Aidan stephens
 October to December 2025
+This is a platformer game that also doubles as a rage game. As you coninue playing you get to be in more areas until you reach the end. If you're able to beat the final boss you win and if not you get sent right back to the beginning. For this game I created all of the graphics and all of the animations. While my friend worked on the coding part.
 
 ![startscreen](https://github.com/garrettdacarrot666/Garrett-Nelson-Game-Dev-portfolio-2026/blob/main/images/Startscreen.png)
 ![gameplay](https://github.com/garrettdacarrot666/Garrett-Nelson-Game-Dev-portfolio-2026/blob/main/images/gameplay.png)
